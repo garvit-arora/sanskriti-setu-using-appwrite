@@ -36,7 +36,7 @@ A modern React-based platform connecting people through shared cultural interest
 ## Tech Stack
 
 ### Frontend
-- **React 19** with TypeScript
+- **React 19** with TS
 - **Tailwind CSS** for styling
 - **Framer Motion** for animations
 - **React Router DOM** for navigation
