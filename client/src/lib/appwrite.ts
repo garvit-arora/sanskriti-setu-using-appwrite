@@ -15,6 +15,12 @@ const client = new Client()
   .setEndpoint(appwriteConfig.endpoint)
   .setProject(appwriteConfig.projectId);
 
+// Add platform for current origin in development
+if (process.env.NODE_ENV === 'development' && typeof window !== 'undefined') {
+  // This helps with CORS during development
+  console.log('Running on:', window.location.origin);
+}
+
 // Debug configuration
 if (process.env.NODE_ENV === 'development') {
   console.log('Appwrite Config:', {
