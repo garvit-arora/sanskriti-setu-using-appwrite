@@ -1,0 +1,36 @@
+{
+  "name": "sanskriti-setu",
+  "version": "1.0.0",
+  "description": "Cultural Exchange Platform for SIH 2024 with Appwrite Backend",
+  "main": "client/src/index.js",
+  "scripts": {
+    "dev": "cd client && npm start",
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "test": "cd client && npm test",
+    "install-client": "cd client && npm install",
+    "install-all": "npm run install-client",
+    "vercel-build": "cd client && npm run build",
+    "preview": "cd client && npm run build && npx serve -s build"
+  },
+  "dependencies": {
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/react": "^6.1.19",
+    "@fullcalendar/timegrid": "^6.1.19",
+    "appwrite": "^21.2.1",
+    "fullcalendar": "^6.1.19",
+    "gsap": "^3.13.0"
+  },
+  "keywords": [
+    "cultural-exchange",
+    "heritage",
+    "india",
+    "sih2024",
+    "education",
+    "social-platform",
+    "appwrite",
+    "react"
+  ],
+  "author": "SIH Team",
+  "license": "MIT"
+}

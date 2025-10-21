@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Development files
+.env.local
+.env.development
+client/.env.local
+client/.env.development
+
+# Build artifacts
+client/.next/
+client/build/
+
+# Testing
+client/coverage/
+__tests__/
+*.test.js
+*.test.ts
+*.test.tsx
+*.spec.js
+*.spec.ts
+*.spec.tsx
+
+# Documentation
+README.md
+docs/
+*.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Server files (since we're using Appwrite)
+server/
+
+# Legacy files
+netlify/
+*.toml

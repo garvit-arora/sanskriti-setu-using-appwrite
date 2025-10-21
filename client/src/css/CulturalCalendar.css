@@ -1,0 +1,23 @@
+/* Basic FullCalendar styling from v6 */
+.fc {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.fc .fc-toolbar-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.fc .fc-daygrid-event {
+  border-radius: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.85rem;
+}
+
+.fc .fc-event {
+  cursor: pointer;
+}
+
+.fc .fc-daygrid-day-number {
+  font-weight: 500;
+}

@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "img": "/images/sites.webp",
+      "heading": "Cultural Heritage Sites",
+      "page" : "cultural-places"
+    },
+    {
+      "id": "2",
+      "img": "/images/festival.webp",
+      "heading": "Festivals of India",
+      "page" : "festivals"
+    }
+  ]
+}
