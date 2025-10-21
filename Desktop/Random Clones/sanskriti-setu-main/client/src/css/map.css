@@ -1,0 +1,163 @@
+/* CSS start for map container */
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top:1rem;
+    overflow: hidden;
+    height: 100vh;
+    width: 100%;
+    background: url("../../public/image.png") no-repeat center center/cover;
+    
+}
+.map-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#3f34227b; 
+    z-index: 1;
+}
+
+.map-container > * {
+    position: relative;
+    z-index: 2;
+}
+/* CSS end for map container */
+
+/* CSS start for sites container */
+.sites-container {
+    border-radius:0 0 5px 0;
+    margin-top: 3.5rem;
+    backdrop-filter: blur(14px);
+    position: absolute;
+    overflow: auto;
+    left: 0;
+    top: 0;
+    width: 40%;
+    height: 100%;
+    z-index: 10;
+    /* background-color: #f0f0f0; */
+    padding: 20px;
+    padding-bottom: 4rem;
+    box-shadow: 5px 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.selected-state{
+    fill: #f88101;
+    stroke: white;
+    stroke-width: 1.5;
+}
+
+.sites-container::-webkit-scrollbar {
+    width: 12px;
+}
+
+.sites-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.sites-container::-webkit-scrollbar-thumb {
+    background: #b8b8b8;
+    border-radius: 10px;
+}
+
+
+/* CSS end for sites container */
+
+/* CSS start for close button */
+.close-btn {
+    position: fixed;
+    top: 3.6rem;
+    left:40%;
+    z-index: 20;
+}
+
+.close-btn button {
+    background-color: #ff5c5c;
+    color: white;
+    border: none;
+    border-radius: 0 15px 15px 0;
+    padding: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+.close-btn button span{
+    font-size: 40px;
+}
+.close-btn button:hover {
+    background-color: #ff2e2e;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.close-btn button:active {
+    transform: translateY(0);
+    box-shadow: none;
+}
+/* CSS end for close button */
+
+/* CSS start for site list */
+.site-list {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.site-list h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.site-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.site-list a {
+    text-decoration: none;
+    color: inherit;
+}
+/* CSS end for site list */
+
+/* CSS start for individual site item */
+.site {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+   box-shadow:
+  0px 0px 108px -80px rgba(0, 0, 0, 0.83)
+;
+}
+
+.site h2 {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+    color: #222;
+}
+
+.site p {
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.site:hover {
+    transform: translateY(-5px);
+    box-shadow:
+    0px 0px 371px -71px rgba(0, 0, 0, 0.83)
+  ;
+  background-color: #e0e0e0;
+
+}
+/* CSS end for individual site item */

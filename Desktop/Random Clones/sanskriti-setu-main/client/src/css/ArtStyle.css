@@ -1,0 +1,130 @@
+
+header {
+    background-color: #333; /* Dark background for contrast */
+    color: #fff; /* White text for readability */
+    padding: 20px 0; /* Padding to create space around the text */
+    text-align: center; /* Center the header text */
+    font-family: 'Arial', sans-serif; /* Clean and modern font */
+    margin-block: 5rem;
+    /* border-radius: 50px; */
+}
+
+header h1 {
+    font-size: 2.5rem; /* Large font size for the main heading */
+    margin: 0; /* Remove default margin */
+    animation: fadeIn 0.5s ease-in; /* Fade-in animation for the header */
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0; /* Start fully transparent */
+    }
+    100% {
+        opacity: 1; /* End fully visible */
+    }
+}
+
+.slider-container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: all 0.5s ease;
+    margin-block:5rem;
+padding-bottom: 3rem;
+  }
+  
+  .slider-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 400px; */
+    position: relative;
+    transition: all 0.5s ease;
+padding: 2rem;
+
+}
+.slide-bg{
+      background-color: whitesmoke;
+      border-radius: 25px;
+      padding: 2rem;
+
+  }
+  
+  .image-section {
+    position: relative;
+    height: 550px;
+    border-radius: 10px;
+  }
+  
+  .image-section img {
+   
+    height: 550px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 1s ease-in-out;
+  }
+  
+  .image-section:hover img {
+    transform: scale(1.05);
+  }
+  
+  .text-overlay {
+    position: absolute;
+    bottom: 20px;
+    left: -10rem;
+    color: #fff;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+  }
+  
+  .text-overlay h2 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    animation: fadeInUp 1.3s ease-in-out;
+    font-family: "Cinzel", serif;
+  }
+  
+  .text-overlay p {
+    font-size: 1.2rem;
+    line-height: 1.4;
+    animation: fadeInUp 1.5s ease-in-out;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .view-all-button {
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    background: linear-gradient(to right, #c4474b, #e56961);
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .view-all-button:hover {
+    background: linear-gradient(to right, #c4474b, #d5544a);
+    transform: scale(1.05);
+  }
+  
+  /* Animations */
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

@@ -1,0 +1,105 @@
+{
+  "artForms": [
+    {
+      "name": "Madhubani Paintings",
+      "description": "A vibrant folk art from Bihar, known for its intricate patterns and mythological themes.",
+      "image": "/assets/madhubani.webp",
+      "link": "/assets/madhubani.webp",
+      "states": {
+        "origin": "Bihar",
+        "practiced_in": [
+          "Bihar",
+          "Jharkhand"
+        ]
+      }
+    },
+    {
+      "name": "Phad Paintings",
+      "description": "A religious scroll painting from Rajasthan, known for its vibrant colors and depiction of epic stories.",
+      "image": "/Phad.jpeg",
+      "link": "/Phad.jpeg",
+      "states": {
+        "origin": "Rajasthan",
+        "practiced_in": [
+          "Rajasthan"
+        ]
+      }
+    },
+    {
+      "name": "Gond Art",
+      "description": "A tribal art form from Madhya Pradesh, characterized by its vibrant colors and intricate patterns inspired by nature.",
+      "image": "/Gond.jpeg",
+      "link": "/Gond.jpeg",
+      "states": {
+        "origin": "Madhya Pradesh",
+        "practiced_in": [
+          "Madhya Pradesh",
+          "Chhattisgarh"
+        ]
+      }
+    },
+    {
+      "name": "Pattachitra",
+      "description": "A traditional cloth-based scroll painting from Odisha and West Bengal, known for its intricate details and mythological narratives.",
+      "image": "/Pattachitra.jpeg",
+      "link": "/Pattachitra.jpeg",
+      "states": {
+        "origin": "Odisha",
+        "practiced_in": [
+          "Odisha",
+          "West Bengal"
+        ]
+      }
+    },
+    {
+      "name": "Warli Paintings",
+      "description": "A tribal art form from Maharashtra, Warli paintings depict daily life and nature using simple geometric shapes.",
+      "image": "/warli.jpg",
+      "link": "/warli.jpg",
+      "states": {
+        "origin": "Maharashtra",
+        "practiced_in": [
+          "Maharashtra"
+        ]
+      }
+    },
+    {
+      "name": "Kalamkari",
+      "description": "A hand-painted or block-printed textile from Andhra Pradesh, featuring intricate designs and natural dyes.",
+      "image": "/Kalamkari.jpeg",
+      "link": "/Kalamkari.jpeg",
+      "states": {
+        "origin": "Andhra Pradesh",
+        "practiced_in": [
+          "Andhra Pradesh",
+          "Telangana"
+        ]
+      }
+    },
+    {
+      "name": "Tanjore Paintings",
+      "description": "A classical South Indian painting style from Tamil Nadu, known for its rich colors, surface richness, and compact composition.",
+      "image": "/Tanjore.jpeg",
+      "link": "/Tanjore.jpeg",
+      "states": {
+        "origin": "Tamil Nadu",
+        "practiced_in": [
+          "Tamil Nadu"
+        ]
+      }
+    },
+    {
+      "name": "Miniature Paintings",
+      "description": "A detailed and colorful style of painting from Rajasthan and Mughal courts, often illustrating manuscripts and royal chronicles.",
+      "image": "/Miniature.jpeg",
+      "link": "/Madhubani_Paintings.jpg",
+      "states": {
+        "origin": "Rajasthan",
+        "practiced_in": [
+          "Rajasthan",
+          "Uttar Pradesh"
+        ]
+      }
+    }
+  ]
+}

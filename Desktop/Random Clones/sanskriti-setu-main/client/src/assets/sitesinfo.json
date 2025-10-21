@@ -1,0 +1,605 @@
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Kuchipudi",
+          "description": "A classical dance form known for its graceful movements, storytelling, and drama, originating from the village of Kuchipudi."
+        },
+        {
+          "aspect": "Language",
+          "value": "Telugu",
+          "description": "Telugu is the official and widely spoken language, reflecting the state's literary heritage."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Pulihora, Pesarattu",
+          "description": "Pulihora is a tangy rice dish flavored with tamarind, while Pesarattu is a healthy green gram pancake."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Ugadi",
+          "description": "Ugadi marks the Telugu New Year and is celebrated with rituals, special foods, and decorations."
+        }
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Bardo Chham",
+          "description": "A traditional folk dance symbolizing the victory of good over evil, performed during Losar festival."
+        },
+        {
+          "aspect": "Language",
+          "value": "Nyishi, Adi, English",
+          "description": "The state is home to various tribes, each speaking its own language; English is the official medium."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Thukpa, Momos",
+          "description": "Thukpa is a noodle soup while momos are steamed dumplings, both influenced by Tibetan cuisine."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Losar",
+          "description": "Losar is the Tibetan New Year celebrated with dances, prayers, and communal feasts."
+        }
+      ]
+    },
+    {
+      "name": "Assam",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Bihu",
+          "description": "Bihu is both a folk dance and the festival of spring harvest, involving rhythmic music and group performances."
+        },
+        {
+          "aspect": "Language",
+          "value": "Assamese",
+          "description": "Assamese is the official language, significant for its distinct script and cultural literature."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Assam Laksa, Khaar",
+          "description": "Typical dishes include the tangy Assam Laksa fish soup and alkaline Khaar curry."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Bohag Bihu",
+          "description": "Bohag Bihu, or Rongali Bihu, celebrates the Assamese New Year with music, feasting, and traditions."
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Jat-Jatin, Bidesia",
+          "description": "Folk dances like Jat-Jatin and Bidesia narrate rural tales and social themes through lively performances."
+        },
+        {
+          "aspect": "Language",
+          "value": "Maithili, Hindi",
+          "description": "Maithili and Hindi are the key languages, rich in classic and folk literary works."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Litti Chokha",
+          "description": "Litti Chokha is a signature dish made with roasted wheat balls filled with spiced gram flour, served with mashed vegetables."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Chhath Puja",
+          "description": "Chhath Puja is a major festival where devotees offer prayers to the Sun God along river banks."
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Panthi, Raut Nacha",
+          "description": "Tribal folk dances like Panthi and Raut Nacha are performed during harvest and religious festivals."
+        },
+        {
+          "aspect": "Language",
+          "value": "Chhattisgarhi",
+          "description": "Chhattisgarhi is widely spoken for everyday communication, deeply tied to local folklore."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Faraa, Chila",
+          "description": "Staple foods include Faraa (steamed rice dumplings) and Chila (savory rice pancakes)."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Bastar Dussehra",
+          "description": "Bastar Dussehra is a unique 75-day-long tribal festival with rituals, fairs, and processions."
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "cultural_practices": [
+        {
+          "aspect": "Festival",
+          "value": "Carnival",
+          "description": "A landmark event featuring grand parades, music, dancing, and vibrant costumes, influenced by Portuguese heritage."
+        },
+        {
+          "aspect": "Dance",
+          "value": "Fugdi, Dhalo",
+          "description": "Folk dances performed by women in circles or pairs during religious and seasonal festivals."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Fish Curry Rice",
+          "description": "Staple diet centered around rice and locally caught fish seasoned with coconut and spices."
+        },
+        {
+          "aspect": "Language",
+          "value": "Konkani",
+          "description": "Konkani is the state’s official language, pronounced by its unique blend of Indian and Portuguese terms."
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Garba, Dandiya Raas",
+          "description": "Vibrant group dances involving sticks (dandiyas) and circular formations, most popular during Navratri festival."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Dhokla, Thepla",
+          "description": "Famous for snacks like Dhokla (steamed fermented batter) and Thepla (spiced flatbread)."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Uttarayan",
+          "description": "A colorful kite-flying festival marking the harvest and celebrated with much enthusiasm."
+        },
+        {
+          "aspect": "Language",
+          "value": "Gujarati",
+          "description": "The main language imbued with a rich tradition of poetry, folk tales, and proverbs."
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Phag, Dhamal",
+          "description": "Folk dances performed in groups, often depicting stories of heroism or seasonal changes."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Teej",
+          "description": "A festival that celebrates monsoon and womanhood with swings, folk songs, and bright clothing."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Bajra Khichdi",
+          "description": "Traditional porridge made from pearl millet, served with desi ghee and yogurt."
+        },
+        {
+          "aspect": "Language",
+          "value": "Haryanvi, Hindi",
+          "description": "Haryanvi dialect and Hindi are the common modes of local communication."
+        }
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Nati",
+          "description": "A lively group folk dance recognized for its coordinated steps and traditional costumes."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Sidu, Chha Gosht",
+          "description": "Sidu (stuffed bread) and Chha Gosht (spiced lamb curry) reflect the region’s mountainous agrarian lifestyle."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Kullu Dussehra",
+          "description": "A week-long festival with processions, music, and cultural programs in the valley."
+        },
+        {
+          "aspect": "Language",
+          "value": "Pahari, Hindi",
+          "description": "Pahari dialects dominate, with Hindi as the official state language."
+        }
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Chhau, Jhumar",
+          "description": "Chhau is a martial arts-inspired masked dance, and Jhumar is performed during harvest by tribal communities."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Dhuska, Thekua",
+          "description": "Staple tribal foods like Dhuska (fried rice bread) and Thekua (sweet wheat snack) are common."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Sarhul",
+          "description": "Sarhul marks the beginning of the new year and is dedicated to the Sal tree, involving prayers, dances, and feasts."
+        },
+        {
+          "aspect": "Language",
+          "value": "Santhali, Hindi",
+          "description": "Santhali, a tribal language, and Hindi are used widely across different regions."
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Yakshagana, Dollu Kunitha",
+          "description": "Yakshagana is a traditional theatre dance-drama with elaborate costumes; Dollu Kunitha features vigorous drumming and group choreography."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Bisi Bele Bath, Ragi Mudde",
+          "description": "Signature dishes include Bisi Bele Bath (rice-lentil stew) and Ragi Mudde (finger millet balls)."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Mysuru Dasara",
+          "description": "The state festival with grand processions, decorated elephants, folk arts, and musical performances."
+        },
+        {
+          "aspect": "Language",
+          "value": "Kannada",
+          "description": "Kannada is the main language, renowned for its ancient literature and arts."
+        }
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "cultural_practices": [
+        {
+          "aspect": "Tribal Groups",
+          "value": "Khasi, Jaintia, Garo",
+          "description": "Meghalaya is home to major tribes like Khasi, Jaintia, and Garo, each with distinct customs, languages, and festivals."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Wangala",
+          "description": "Known as the 'Hundred Drums Festival,' Wangala celebrates the harvest with rhythmic drumbeats, dances, and rituals."
+        },
+        {
+          "aspect": "Dress",
+          "value": "Jainsem and Dhara",
+          "description": "Traditional attire includes the Jainsem worn by Khasi women and Dhara by Garo women, reflecting tribal identities."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Jadoh, Dohneiiong",
+          "description": "Jadoh (rice with meat) and Dohneiiong (pork cooked with black sesame) are local delicacies."
+        }
+      ]
+    },
+    {
+      "name": "Manipur",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Manipuri Dance",
+          "description": "A classical dance form depicting themes from Hindu epics with graceful movements and vibrant costumes."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Lai Haraoba",
+          "description": "An ancient festival involving ritualistic dances that honor traditional deities and creation myths."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Steamed Rice, Eromba",
+          "description": "Staple foods include steamed rice accompanied by spicy vegetable and fish-based dishes like Eromba."
+        },
+        {
+          "aspect": "Language",
+          "value": "Meiteilon (Manipuri)",
+          "description": "Manipuri is the primary language, rich in literature and oral traditions."
+        }
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "cultural_practices": [
+        {
+          "aspect": "Festival",
+          "value": "Chapchar Kut",
+          "description": "Spring festival celebrating the clearing of forest land for cultivation, featuring folk songs and dances."
+        },
+        {
+          "aspect": "Dance",
+          "value": "Cheraw (Bamboo Dance)",
+          "description": "A traditional bamboo dance where performers rhythmically step in and out of bamboo poles tapped together."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Rice, Fish, Pork",
+          "description": "Rice is the staple food with frequent use of fish, pork, and fresh vegetables, usually cooked with minimal spices."
+        },
+        {
+          "aspect": "Dress",
+          "value": "Puanchei",
+          "description": "Traditional handwoven shawls worn during festivals and important ceremonies."
+        }
+      ]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "cultural_practices": [
+        {
+          "aspect": "Festival",
+          "value": "Amarnath Yatra",
+          "description": "A major pilgrimage and festival attracting thousands to the Amarnath cave shrine, marked by devotion and traditional rituals."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Rogan Josh, Gushtaba",
+          "description": "Rich meat dishes infused with aromatic spices reflecting Kashmiri Muslim culinary heritage."
+        },
+        {
+          "aspect": "Craft",
+          "value": "Pashmina Shawls",
+          "description": "Handwoven woolen shawls known worldwide for their softness and intricate craftsmanship."
+        },
+        {
+          "aspect": "Dance",
+          "value": "Rouf",
+          "description": "A traditional folk dance performed mostly by women during festivals and social occasions."
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Perini Sivatandavam",
+          "description": "An ancient warrior dance form dedicated to Lord Shiva, displaying vigorous and rhythmic movements."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Bonalu",
+          "description": "A folk festival celebrating the Goddess Mahakali, involving offerings, traditional songs, and community gatherings."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Hyderabadi Biryani",
+          "description": "A world-famous fragrant rice and meat dish symbolizing rich culinary traditions."
+        },
+        {
+          "aspect": "Language",
+          "value": "Telugu, Urdu",
+          "description": "Telugu is the dominant language, with Urdu also widely spoken reflecting the region’s diverse culture."
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Bharatanatyam",
+          "description": "A classical Indian dance known for its fixed upper torso, bent legs, and intricate footwork, expressing Hindu religious themes."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Pongal",
+          "description": "A harvest festival thanking the Sun God, with cooking of the Pongal dish and community prayers."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Idli, Dosa, Sambar",
+          "description": "Staple foods include fermented rice cakes and crepes accompanied by lentil-based sambar."
+        },
+        {
+          "aspect": "Language",
+          "value": "Tamil",
+          "description": "One of the world’s oldest classical languages, Tamil is deeply tied to literature and temple traditions."
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Odissi",
+          "description": "A classical dance form famous for its graceful movements and religious storytelling."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Ratha Yatra",
+          "description": "The annual chariot festival of Lord Jagannath draws devotees from all over the world."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Pakhala, Rasgulla",
+          "description": "Pakhala is fermented rice served with side dishes; Rasgulla is a spongy sweet innovation from Odisha."
+        },
+        {
+          "aspect": "Language",
+          "value": "Odia",
+          "description": "Odia language has a rich literary tradition and is central to the state's identity."
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Bhangra, Gidda",
+          "description": "High-energy folk dances performed during harvests and celebrations."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Lohri",
+          "description": "Festival marking the winter solstice with bonfires, songs, and communal feasting."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Makki di Roti, Sarson da Saag",
+          "description": "Rustic dishes made from cornmeal and mustard greens, celebrated for hearty flavors."
+        },
+        {
+          "aspect": "Language",
+          "value": "Punjabi",
+          "description": "Punjabi language is rich in poetry and musical traditions."
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Ghoomar, Kalbeliya",
+          "description": "Traditional folk dances characterized by flowing costumes and graceful movements."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Desert Festival",
+          "description": "A vibrant event showcasing Rajasthani music, dance, and camel races."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Dal Baati Churma",
+          "description": "Baked wheat balls served with lentils and sweet crushed wheat mixture."
+        },
+        {
+          "aspect": "Language",
+          "value": "Marwari, Hindi",
+          "description": "Marwari dialect and Hindi reflect the region’s cultural heritage."
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "cultural_practices": [
+        {
+          "aspect": "Festival",
+          "value": "Losar",
+          "description": "Tibetan New Year celebrated with dances and rituals."
+        },
+        {
+          "aspect": "Dance",
+          "value": "Mask Dance",
+          "description": "A ritualistic dance performed by monks wearing elaborate masks."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Momos, Thukpa",
+          "description": "Steamed dumplings and noodle soup reflecting Tibetan influence."
+        },
+        {
+          "aspect": "Language",
+          "value": "Nepali",
+          "description": "Nepali is widely spoken alongside other local languages."
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Garia Puja Dance",
+          "description": "Folk dance performed during the Garia festival asking for a bountiful harvest."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Mui Borok",
+          "description": "Traditional tribal dishes made from rice and meat."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Kharchi Puja",
+          "description": "A religious festival venerating fourteen gods and marking purification."
+        },
+        {
+          "aspect": "Language",
+          "value": "Kokborok, Bengali",
+          "description": "Languages of the indigenous tribes and Bengali-speaking population."
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Garhwali and Kumaoni Folk Dances",
+          "description": "Express community stories and valor with energetic group dances."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Kumbh Mela",
+          "description": "A massive spiritual congregation held at Haridwar, attracting pilgrims worldwide."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Aloo Ke Gutke, Kafuli",
+          "description": "Local dishes including spicy potatoes and green leafy vegetable curry."
+        },
+        {
+          "aspect": "Language",
+          "value": "Garhwali, Kumaoni",
+          "description": "Two regional languages known for rich oral and folk traditions."
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "cultural_practices": [
+        {
+          "aspect": "Dance",
+          "value": "Chhau, Gambhira",
+          "description": "Chhau integrates martial arts and folk tales; Gambhira blends folk theatre and satire."
+        },
+        {
+          "aspect": "Festival",
+          "value": "Durga Puja",
+          "description": "An elaborate festival celebrating goddess Durga with art, music, and dance."
+        },
+        {
+          "aspect": "Cuisine",
+          "value": "Fish Curry, Rosogolla",
+          "description": "Signature cuisine featuring fish and iconic sweets like Rosogolla."
+        },
+        {
+          "aspect": "Language",
+          "value": "Bengali",
+          "description": "Bengali is a culturally rich language with strong literary heritage."
+        }
+      ]
+    }
+
+  ]
+}
